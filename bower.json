@@ -1,0 +1,22 @@
+{
+  "name": "util-event",
+  "description": "event helper",
+  "main": "dist/util-event.js",
+  "authors": [
+    "forsigner"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "event",
+    "jquery free"
+  ],
+  "homepage": "https://github.com/forsigner/util-event",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

@@ -8,6 +8,7 @@
   "license": "MIT",
   "keywords": [
     "event",
+    "util-event",
     "jquery free"
   ],
   "homepage": "https://github.com/forsigner/util-event",
